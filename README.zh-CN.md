@@ -4,7 +4,7 @@
 
 ## 介绍
 
-九宫格抽奖活动
+九宫格抽奖小游戏
 
 
 
@@ -17,6 +17,20 @@ web端：client
 
 ## 安装教程
 
+```bash
+# 启动服务
+$ cd server
+$ npm install
+$ node server.js
+
+# 启动前端
+$ cd client
+$ npm install
+$ npm start
+```
+
 
 
 ## 使用说明
+
+仅供参考
