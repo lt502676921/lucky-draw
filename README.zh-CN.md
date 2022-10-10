@@ -2,6 +2,10 @@
 
 
 
+[English](https://github.com/lt502676921/lucky-draw/blob/main/README.md)  |  简体中文
+
+
+
 ## 介绍
 
 九宫格抽奖小游戏

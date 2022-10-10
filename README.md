@@ -2,6 +2,10 @@
 
 
 
+English  |  [简体中文](https://github.com/lt502676921/lucky-draw/blob/main/README.zh-CN.md)
+
+
+
 ## Description
 
 A nine grid lottery game
