@@ -14,8 +14,8 @@
 
 ## 软件架构
 
-web端：client 
-服务端：server
+- web端：client
+- 服务端：server
 
 
 

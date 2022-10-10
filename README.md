@@ -14,8 +14,8 @@ A nine grid lottery game
 
 ## Software Architecture
 
-Front-End：client 
-Back-End：server
+- Front-End：client
+- Back-End：server
 
 
 
